@@ -10,7 +10,7 @@
     <?php
     echo 'Olá mundo 2 <br>'; 
     echo 'Meu nome é Pedro <br>'; 
-    echo 'Minha idade é 23aaaa';
+    echo 'Minha idade é 23';
     ?>
 </body>
 </html>
